@@ -1,0 +1,32 @@
+.navbar-brand{
+    margin-left: 1%;
+}
+
+.nav-item{
+    margin-left: 15%;
+}
+
+.navbar{
+    background-color: #b6a194;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+.endbtn{
+    display: flex;
+    justify-content: space-between; /* Push content to ends */
+    align-items: center;
+    margin-right: 2%;
+}
+
+.logout{
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
